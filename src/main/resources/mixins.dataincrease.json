@@ -1,0 +1,8 @@
+{
+    "compatibilityLevel": "JAVA_8",
+    "package": "com.mystic.dataincrease.mixin",
+    "refmap": "refmap.dataincrease.json",
+    "mixins": [],
+    "client": [],
+    "server": []
+}
